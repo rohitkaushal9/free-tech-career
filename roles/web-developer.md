@@ -8,21 +8,22 @@
 
 | Step | Kya seekhna hai | Free mein kahan se | Is step ka project |
 |---|---|---|---|
-| 1 | **HTML aur CSS:** page ka dhaancha aur design | [Web Dev for Beginners (Microsoft)](https://github.com/microsoft/Web-Dev-For-Beginners), shuru ke lessons | Apna ek-page resume website |
-| 2 | **JavaScript:** page ko chalna sikhana | [roadmap.sh/javascript](https://roadmap.sh/javascript) + Web Dev for Beginners | Calculator ya to-do list |
-| 3 | **Git aur GitHub:** kaam save karna aur dikhana | [roadmap.sh/git-github](https://roadmap.sh/git-github) | Pichhle dono project GitHub pe |
-| 4 | **Ek framework (React):** bade apps banana | [roadmap.sh/frontend](https://roadmap.sh/frontend) mein React wala hissa | Weather app ya movie search |
-| 5 | **Backend basics:** server, database, API | [roadmap.sh/backend](https://roadmap.sh/backend) | Login wala chhota app |
-| 6 | **Full stack:** dono ko jodna | [roadmap.sh/full-stack](https://roadmap.sh/full-stack) | Ek poora app jo koi dost use kar sake |
+| 1 | **HTML aur CSS:** page ka dhaancha aur design | [Web Dev for Beginners (Microsoft)](https://github.com/microsoft/Web-Dev-For-Beginners) | Apna ek-page resume website |
+| 2 | **JavaScript:** page ko chalna sikhana | [roadmap.sh/javascript](https://roadmap.sh/javascript) | Calculator ya to-do list |
+| 3 | **TypeScript:** JavaScript, galtiyan pakadne ke saath | [roadmap.sh/typescript](https://roadmap.sh/typescript) | To-do list TypeScript mein |
+| 4 | **React:** bade apps components se banana | [react.dev/learn](https://react.dev/learn) | Weather app ya movie search |
+| 5 | **Next.js:** React ke saath poori website, backend bhi | [nextjs.org/learn](https://nextjs.org/learn) | Login wala chhota app |
+| 6 | **Backend (Node.js) aur database** | [roadmap.sh/nodejs](https://roadmap.sh/nodejs) · [roadmap.sh/backend](https://roadmap.sh/backend) | Ek poora app jo koi dost use kar sake |
+| 7 | **Git aur GitHub** (shuru se hi use karo) | [roadmap.sh/git-github](https://roadmap.sh/git-github) | Saare projects GitHub pe |
 
 ## Galtiyan jo time barbaad karti hain
 
 - Ek saath teen language shuru karna. Pehle HTML, CSS, JavaScript pakki karo.
 - Sirf video dekhte rehna. Har step ke baad khud kuch banao.
-- Har naya framework pakadna. Ek framework achhe se aa jaye, wahi kaafi hai shuru mein.
+- Har naya framework pakadna. React aur Next.js achhe se aa jaye, wahi kaafi hai shuru mein.
 
 ## Poora map
 
-Detail mein poora raasta: [roadmap.sh/frontend](https://roadmap.sh/frontend) · [roadmap.sh/backend](https://roadmap.sh/backend) · [roadmap.sh/full-stack](https://roadmap.sh/full-stack)
+[roadmap.sh/frontend](https://roadmap.sh/frontend) · [roadmap.sh/backend](https://roadmap.sh/backend) · [roadmap.sh/full-stack](https://roadmap.sh/full-stack)
 
 [← Saare roles](../README.md)

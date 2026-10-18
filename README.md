@@ -12,8 +12,8 @@ Banaya hai [@roheit.ai](https://www.instagram.com/roheit.ai/) ne, "Dadaji ke Saw
 |---|---|---|
 | 🌐 **Web Developer** | Websites aur web apps banata hai | [Raasta dekho](roles/web-developer.md) |
 | 🤖 **AI Engineer** | AI wale apps banata hai (chatbot, smart search, AI tools) | [Raasta dekho](roles/ai-engineer.md) |
-| 📊 **Data Analyst** | Data se business ke sawaalon ke jawab nikaalta hai | [Raasta dekho](roles/data-analyst.md) |
-| 📱 **Android Developer** | Mobile apps banata hai | [Raasta dekho](roles/android-developer.md) |
+| 📊 **Data Analyst** | Data se business ke sawaalon ke jawab aur dashboards banata hai | [Raasta dekho](roles/data-analyst.md) |
+| 📱 **Mobile App Developer** | React Native se ek code mein Android aur iPhone apps banata hai | [Raasta dekho](roles/mobile-app-developer.md) |
 
 Pakka nahi ki kaunsa role? [Kaunsa role mere liye?](roles/choose-a-role.md) padho.
 
@@ -40,6 +40,7 @@ Yeh guide in free projects ke **links** deti hai. Saari content unke banane walo
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) (Free Ebook Foundation)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) (John Washam)
 - [OSSU Computer Science](https://github.com/ossu/computer-science)
-- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) (Google)
+- [React](https://react.dev), [Next.js](https://nextjs.org/learn), [React Native](https://reactnative.dev) and [Expo](https://docs.expo.dev) official docs
+- [Kaggle Learn](https://www.kaggle.com/learn), [Power BI training (Microsoft)](https://learn.microsoft.com/en-us/training/powerplatform/power-bi), [Looker Studio](https://lookerstudio.google.com)
 
 Is repo ke apne likhe hue text ka license: [CC BY 4.0](LICENSE). Linked projects apne-apne license ke under hain.

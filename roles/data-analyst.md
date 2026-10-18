@@ -1,24 +1,23 @@
 # 📊 Data Analyst
 
-**Kaam:** data dekh ke business ke sawaalon ke jawab nikaalna. Jaise "is mahine sale kyun giri?" ya "kaunsa product sabse zyada bikta hai?". Coding thodi kam, soch zyada.
-
-**Kiske liye achha:** jinhe numbers aur Excel pasand hai, commerce ya science kisi bhi background se.
+**Kaam:** data se business ke sawaalon ke jawab nikaalna. Jaise "is mahine sale kyun giri?" ya "kaunsa product sabse zyada bikta hai?". Phir jawab ko dashboard mein dikhana, taaki boss ek nazar mein samajh jaaye.
 
 ## Raasta (order mein)
 
 | Step | Kya seekhna hai | Free mein kahan se | Is step ka project |
 |---|---|---|---|
-| 1 | **Excel / Google Sheets:** formulas, pivot table, charts | [roadmap.sh/data-analyst](https://roadmap.sh/data-analyst), shuru ka hissa | Apne ghar ke mahine ke kharche ka dashboard |
-| 2 | **SQL:** database se data nikaalna | [roadmap.sh/sql](https://roadmap.sh/sql) | Ek dukaan ke sales data se top 10 product |
-| 3 | **Python (data ke liye):** bade data ke saath kaam | [roadmap.sh/python](https://roadmap.sh/python) + [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners) | Kisi free dataset ka analysis |
-| 4 | **Charts aur story:** data ko samjhaana | [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners), visualisation lessons | 5 slide ki report: sawaal, data, jawab |
-| 5 | **Poora map** | [roadmap.sh/data-analyst](https://roadmap.sh/data-analyst) | 3 projects ka portfolio GitHub pe |
+| 1 | **SQL:** database se data nikaalna | [roadmap.sh/sql](https://roadmap.sh/sql) | Ek dukaan ke sales data se top 10 product |
+| 2 | **Python (pandas):** bade data ko saaf karna aur samajhna | [Kaggle Learn](https://www.kaggle.com/learn) (Python, Pandas) | Kisi free dataset ka analysis |
+| 3 | **Dashboards:** Power BI ya Looker Studio | [Power BI training (Microsoft)](https://learn.microsoft.com/en-us/training/powerplatform/power-bi) · [Looker Studio](https://lookerstudio.google.com) | Ek live sales dashboard |
+| 4 | **Data ki kahani:** sawaal, data, jawab | [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners) | 5 slide ki report |
+| 5 | **AI ke saath analysis:** AI se SQL/Python likhwana aur check karna | [Generative AI for Beginners (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners) | Wahi analysis, AI ki madad se aadhe time mein |
+| 6 | **Poora map** | [roadmap.sh/data-analyst](https://roadmap.sh/data-analyst) | 3 projects ka portfolio GitHub pe |
 
 ## Galtiyan jo time barbaad karti hain
 
-- Excel ko halka samajhna. Bahut si companies mein roz ka kaam isi mein hota hai.
 - Sirf tools seekhna. Har project ek business sawaal se shuru karo.
-- Report mein sirf chart daalna. Ek line mein likho: iska matlab kya hai.
+- Dashboard mein sab kuch bhar dena. 3 sabse zaroori number upar rakho.
+- AI ka likha SQL bina check kiye chala dena. Hamesha result ko ek baar khud jaancho.
 
 ## Poora map
 
