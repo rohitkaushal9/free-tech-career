@@ -17,6 +17,10 @@ Banaya hai [@roheit.ai](https://www.instagram.com/roheit.ai/) ne, "Dadaji ke Saw
 
 Pakka nahi ki kaunsa role? [Kaunsa role mere liye?](roles/choose-a-role.md) padho.
 
+## 🛠️ Pehla project kya banaun?
+
+Har track ke 5 real project ideas, aur unhe free mein live kaise karein (push, deploy, README): [projects.md](projects.md)
+
 ## Har role ke liye common cheezein
 
 - **Git aur GitHub** seekho, apna kaam yahin dikhao: [roadmap.sh/git-github](https://roadmap.sh/git-github)
