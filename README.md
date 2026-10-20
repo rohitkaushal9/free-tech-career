@@ -25,6 +25,10 @@ Har track ke 5 real project ideas, aur unhe free mein live kaise karein (push, d
 
 3 round, DSA ka order, project ke 5 pakke sawaal, STAR method aur 30 din ka plan: [interview.md](interview.md)
 
+## 📄 Resume aur apply
+
+ATS-friendly resume ki checklist, project likhne ka formula, aur referral message ka template: [resume.md](resume.md)
+
 ## Har role ke liye common cheezein
 
 - **Git aur GitHub** seekho, apna kaam yahin dikhao: [roadmap.sh/git-github](https://roadmap.sh/git-github)
