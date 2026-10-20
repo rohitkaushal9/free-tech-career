@@ -21,6 +21,10 @@ Pakka nahi ki kaunsa role? [Kaunsa role mere liye?](roles/choose-a-role.md) padh
 
 Har track ke 5 real project ideas, aur unhe free mein live kaise karein (push, deploy, README): [projects.md](projects.md)
 
+## 🎯 Interview mein kya poochte hain?
+
+3 round, DSA ka order, project ke 5 pakke sawaal, STAR method aur 30 din ka plan: [interview.md](interview.md)
+
 ## Har role ke liye common cheezein
 
 - **Git aur GitHub** seekho, apna kaam yahin dikhao: [roadmap.sh/git-github](https://roadmap.sh/git-github)
